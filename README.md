@@ -1,13 +1,14 @@
 No-mask detector is an AI app that can detect people not wearing a mask
 
 Please downaload the dataset here: https://www.kaggle.com/ashishjangra27/face-mask-12k-images-dataset
+
 Create a folder -> Dataset folder under No-mask-detector, following is the project structure:
 - No-mask-detector
   - Dataset
     - Train
     - Test
     - Validation
-  - dataAugmenttion.py
+  - dataAugmentation.py
   - README.md
   - .gitignore
 
