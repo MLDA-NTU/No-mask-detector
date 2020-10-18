@@ -1,2 +1,6 @@
 #ignore Dataset folder
 Dataset/
+
+__pycache__/
+
+tempCodeRunnerFile.py
